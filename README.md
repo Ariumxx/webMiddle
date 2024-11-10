@@ -6,9 +6,6 @@
 **I'm a JavaScript dev**,*this is an example of my code^*
 
 ```javascript
-let str = "this is something"
-```
-
 let isAlive = true;
 
 do{
@@ -19,6 +16,7 @@ while(isAlive);
 function code() {
 alert("Hello World!");
 }
+```
 
 [cool video](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
